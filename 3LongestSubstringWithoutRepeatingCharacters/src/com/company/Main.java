@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
         String s = "dvdf";
         int res = lengthOfLongestSubstring(s);
         System.out.println("res:"+res);
